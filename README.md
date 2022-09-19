@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pea-ms
+- 👋 Hi, I’m @pea-ms (Paola Annis)
 - 👀 I’m interested in everything Azure, cost governance, green software
 - 🌱 I’m currently learning several updates on Azure services roadmaps
 - 💞️ I’m looking to collaborate on everyone
